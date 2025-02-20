@@ -69,7 +69,7 @@ Installation
 
 Clonez le dépôt sur votre machine locale :
 
-git clone https://devops.telecomste.fr/mhajar.youness/correction_qcm.git
+git clone [https://devops.telecomste.fr/mhajar.youness/correction_qcm.git](https://github.com/mhajar11/QCM-auto-correction
 cd correction_qcm
 
 # 2. Créer un environnement virtuel
